@@ -1,5 +1,5 @@
 {
-  "name": "Rest-Api-Ronzz",
+  "name": "VelzzyBOT-Api",
   "version": "2.0.0",
   "description": "make by Ronzz YT free rest api",
   "main": "index.js",
@@ -15,19 +15,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Ronzz-Ofc/Rest-Api.git"
+    "url": "git+https://github.com/RonzzOfc/Rest-Api.git"
   },
   "keywords": [
     "restapi",
     "bot",
     "whatsaap"
   ],
-  "author": "AlipBot",
+  "author": "RonzzYT",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Ronzz-Ofc/Rest-Api/issues"
+    "url": "https://github.com/RonzzOfc/Rest-Api/issues"
   },
-  "homepage": "https://github.com/Ronzz-Ofc/Rest-Api#readme",
+  "homepage": "https://github.com/RonzzOfc/Rest-Api#readme",
   "dependencies": {
     "axios": "^0.27.2",
     "bitly": "^7.1.2",
